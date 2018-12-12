@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+* R
+* RStudio
+* Git
+* GitHub
+* Continuous Integration
